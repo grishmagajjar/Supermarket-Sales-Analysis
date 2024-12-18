@@ -1,5 +1,5 @@
-# Car-Sales-Service-Analysis
-The main objective of this project is to analyze sales &amp; service data to gain actionable insights.
+# Supermarket-Sales-Analysis
+The main objective of this project is to analyze data to gain actionable insights of a supermarket.
 
 This project includes Exploratory Data Analysis, with python and libraries.
 
