@@ -13,7 +13,7 @@ This project includes Exploratory Data Analysis, with python and libraries.
 
 
 
----------- What I have done ---------
+KEY SKILLS
 -> Initial Data Exploration
 -> Univariate Analysis
 -> Bivariate Analysis
