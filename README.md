@@ -5,7 +5,6 @@ This project includes Exploratory Data Analysis, with python and libraries.
 
 ---------- Tools Used ----------
 1. Jupyter Notebook
-2. Google Looker Studio
 
 ---------- Languages/Frameworks Used ----------
 1. python
