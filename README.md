@@ -34,10 +34,10 @@ Delivered actionable insights into supermarket operations, such as top-performin
 Provided stakeholders with clear visualizations and a detailed understanding of the data, supporting data-driven decision-making.
 
 ## Tools Used:
-Jupyter Notebook: For developing and documenting the project.
-Python Libraries:
-pandas and numpy for data manipulation and analysis.
-Seaborn and matplotlib for creating detailed plots and charts.
+- Jupyter Notebook: For developing and documenting the project.
+- Python Libraries:
+-- pandas and numpy for data manipulation and analysis.
+-- Seaborn and matplotlib for creating detailed plots and charts.
 
 --- 
 
