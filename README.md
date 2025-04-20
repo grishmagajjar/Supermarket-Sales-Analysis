@@ -39,7 +39,9 @@ Provided stakeholders with clear visualizations and a detailed understanding of 
 -- pandas and numpy for data manipulation and analysis.
 -- Seaborn and matplotlib for creating detailed plots and charts.
 
-**The data I have used for this analysis:** supermarket_sales.csv
+---
+
+**The data I have used for this analysis:** supermarket_sales.csv<br>
 **Done analysis in jupyter notebook:** supermarket_sales.ipynb
 
 --- 
