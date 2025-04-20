@@ -5,11 +5,12 @@ The objective of this project was to analyze supermarket data to gain actionable
 ## Task:
 My responsibilities included:
 
-Performing an in-depth EDA to identify key insights.
-Cleaning and processing the data, including handling duplicate rows and missing values.
-Conducting univariate and bivariate analysis, along with correlation analysis, to reveal relationships within the data.
-Using Python libraries to visualize findings for better comprehension.
-Action:
+- Performing an in-depth EDA to identify key insights.
+- Cleaning and processing the data, including handling duplicate rows and missing values.
+- Conducting univariate and bivariate analysis, along with correlation analysis, to reveal relationships within the data.
+- Using Python libraries to visualize findings for better comprehension.
+  
+## Action:
 
 ### Data Preparation:
 
@@ -38,8 +39,10 @@ Python Libraries:
 pandas and numpy for data manipulation and analysis.
 Seaborn and matplotlib for creating detailed plots and charts.
 
-KEY SKILLS
--> Initial Data Exploration.
--> Univariate and Bivariate Analysis.
--> Handling Duplicate Rows and Missing Values.
--> Correlation Analysis and Visualization.
+--- 
+
+**KEY SKILLS:**
+- Initial Data Exploration.
+- Univariate and Bivariate Analysis.
+- Handling Duplicate Rows and Missing Values.
+- Correlation Analysis and Visualization.
